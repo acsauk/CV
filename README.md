@@ -22,7 +22,6 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 | Thermostatatic (ADD LINK) | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
 | Inglorius BnBstards (ADD LINK) | 4 | Air BnB clone ADD DETAILS | ADD DETAILS |
 
-
 #### Communication and Teamwork
 
 Completing the Makers Academy curicculum remotely and having worked as part of Global teams for the past five years in office and remote settings I have seen first hand how important effective communications skills are when developing and maintaining professional relationships with colleagues and clients. Being able to convey technical or complicated topics in a non-patronising way ensures everyone has the same understanding as you and minimises he liklihood of confusion/misunderstandings.
@@ -64,7 +63,10 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 Assistant Director - Cross Border Travel Support
 
 **University of Birmingham** (August 2011 - January 2012)   
-*Your job title*
+People and Organisational Development Coordinator
+
+**Vintage Delights** (January 2011 - August 2013)
+Company owner - Confectionary business
 
 ## Interests
 
