@@ -43,6 +43,13 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
+#### Open University (February 2011 - August 2012)
+
+- BSc Computing (not completed)
+- Data, computing and IT
+- Further Mathematics
+- Object orientated programming with Java
+
 #### Birmingham City University (September 2004 - June 2007)
 
 - BSc Sound and Mulitmedia Technology - 2:2
@@ -53,9 +60,10 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 
 ## Experience
 
-EY (January 2012 - May 2016)    
+**EY** (January 2012 - May 2016)    
 Assistant Director - Cross Border Travel Support
-**Company Name** (start_date to end_date)   
+
+**University of Birmingham** (August 2011 - January 2012)   
 *Your job title*
 
 ## Interests
