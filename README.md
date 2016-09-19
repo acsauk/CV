@@ -1,10 +1,10 @@
 ## Alex Saunders
 
-Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a proud graduate of Makers Academy (M.A.) (link) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 16 weeks.
+Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a proud developer trained at Makers Academy (link) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 16 weeks.
 
-I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at a professional services firm to web development earlier this year and I haven't looked back since. Being able to start each day energised with a new challenge and work out creative and efficient ways to solve it has confirmed my suspicion that career in web development is a perfect fit for me.
+Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development earlier this year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has confirmed my suspicion that career in web development is a perfect fit for me.
 
-As a fledgling M.A. graduate I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things, solve fiendish problems and provide value where ever possible.
+I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things, solve fiendish problems and provide value where ever possible.
 
 ## Skills
 
@@ -24,12 +24,13 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 #### Communication and Teamwork
 
-Completing the Makers Academy curicculum remotely and having worked as part of Global teams for the past five years in office and remote settings I have seen first hand how important effective communications skills are when developing and maintaining professional relationships with colleagues and clients. Being able to convey technical or complicated topics in a non-patronising way ensures everyone has the same understanding as you and minimises he liklihood of confusion/misunderstandings.
+- Completing the Makers Academy curriculum remotely and having worked as part of a Global team at EY for the past five years in office and remote settings, I have seen firsthand how important effective communication skills are when developing and maintaining relationships with colleagues and clients. TIDY UP AND MAKE RELEVANT
+- Working on multiple Makers Academy project teams and pair programming on a daily basis I ensured the projects remained on focus by utilising Git, Waffle boards and daily standups
+- I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working in an easy to understand format.
 
-- Working on multiple Makers Academy project teams and pair programming on a daily basis I collaborated effectively to ensure the projects remained on focus by utilising Git, Waffle boards and daily standups
-- I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working
-- ADD DETAILS OF WORKING ON WEB/PR TEAM FOR KQ GAME
+#### Attention to detail
 
+- Working in immi and tax etc...
 
 ## Education
 
@@ -44,14 +45,14 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 
 #### Open University (February 2011 - August 2012)
 
-- BSc Computing (not completed)
+- BSc Computing (partially completed)
 - Data, computing and IT
 - Further Mathematics
 - Object orientated programming with Java
 
 #### Birmingham City University (September 2004 - June 2007)
 
-- BSc Sound and Mulitmedia Technology - 2:2
+- BSc Sound and Multimedia Technology - 2:2
 - Sound Production, Electronics, Web based Databases, Business Studies, Video Production and Signal Processing
 - Created a Wii remote based music looping app for final project
 
@@ -59,14 +60,18 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 
 ## Experience
 
-**EY** (January 2012 - May 2016)    
+**EY** (January 2012 - 2016)    
 Assistant Director - Cross Border Travel Support
 
-**University of Birmingham** (August 2011 - January 2012)   
+**University of Birmingham** (2011 - 2012)   
 People and Organisational Development Coordinator
 
-**Vintage Delights** (January 2011 - August 2013)
+**Vintage Delights** (2011 - 2013)    
 Company owner - Confectionary business
+
+**Phoenix Online Studios** (2004 - 2006)   
+Volunteer Web/PR coordinator and video game character voice over actor
+
 
 ## Interests
 
