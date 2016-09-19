@@ -4,7 +4,7 @@ Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver
 
 I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at a professional services firm to web development earlier this year and I haven't looked back since. Being able to start each day energised with a new challenge and work out creative and efficient ways to solve it has confirmed my suspicion that career in web development is a perfect fit for me.
 
-As a fledgling M.A. graduate I am looking for a role with a forward looking company that cares about the code they produce and somewhere where I can be stretched beyond my comfort zone, make really cool things, solve fiendish problems and provide value where ever possible.
+As a fledgling M.A. graduate I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things, solve fiendish problems and provide value where ever possible.
 
 ## Skills
 
