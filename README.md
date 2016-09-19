@@ -53,7 +53,7 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+EY (January 2012 - May 2016)    
+Assistant Director - Cross Border Travel Support
 **Company Name** (start_date to end_date)   
 *Your job title*  
