@@ -12,15 +12,15 @@ As a fledgling M.A. graduate I am looking for a role with a forward looking comp
 
 I have gained a solid foundation in object orientated programming and leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
-Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and at Command Line I level with a focus on maintainable DRY code.
+Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and at Command Line Interface level with a focus on maintainable DRY code.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
-| Meal Planner |4| A Ruby-on-Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Ruby-on-Rails, Javascript, PostgreSQL, CSS (Milligram), Rspec, Capybara, HTML |
-| Dress 2 Impress | 5 | A Ruby-on-Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Ruby-on-Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip gem, Papercrop gem |
-| Thermostatatic | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
-| Inglorius BnBstards | 4 | Air BnB clone ADD DETAILS | ADD DETAILS |
+| Meal Planner (ADD LINK) |4| A Ruby-on-Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Ruby-on-Rails, Javascript, PostgreSQL, CSS (Milligram), Rspec, Capybara, HTML |
+| Dress 2 Impress (ADD LINK) | 5 | A Ruby-on-Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Ruby-on-Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip gem, Papercrop gem |
+| Thermostatatic (ADD LINK) | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
+| Inglorius BnBstards (ADD LINK) | 4 | Air BnB clone ADD DETAILS | ADD DETAILS |
 
 
 #### Communication and Teamwork
@@ -56,4 +56,8 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 EY (January 2012 - May 2016)    
 Assistant Director - Cross Border Travel Support
 **Company Name** (start_date to end_date)   
-*Your job title*  
+*Your job title*
+
+## Interests
+
+- ADD DETAILS
