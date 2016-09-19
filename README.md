@@ -10,36 +10,31 @@ As a fledgling M.A. graduate I am looking for a role with a forward looking comp
 
 #### Test Driven Web Development
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 I have gained a solid foundation in object orientated programming and leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
-Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and CLI level with a focus on maintainable DRY code.
+Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and at Command Line I level with a focus on maintainable DRY code.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
-| Meal Planner |4| A Ruby-on-Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Ruby-on-Rails, Javascript, CSS (Milligram), Rspec, Capybara, HTML |
+| Meal Planner |4| A Ruby-on-Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Ruby-on-Rails, Javascript, PostgreSQL, CSS (Milligram), Rspec, Capybara, HTML |
 | Dress 2 Impress | 5 | A Ruby-on-Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Ruby-on-Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip gem, Papercrop gem |
-| Thermostatatic | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user |  |
-| INSERT PROJECT | |  |  |
+| Thermostatatic | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
+| Inglorius BnBstards | 4 | Air BnB clone ADD DETAILS | ADD DETAILS |
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Communication and Teamwork
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Completing the Makers Academy curicculum remotely and having worked as part of Global teams for the past five years in office and remote settings I have seen first hand how important effective communications skills are when developing and maintaining professional relationships with colleagues and clients. Being able to convey technical or complicated topics in a non-patronising way ensures everyone has the same understanding as you and minimises he liklihood of confusion/misunderstandings.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Working on multiple Makers Academy project teams I collaborated effectively to ensure the project remained on focus by utilising Git, Waffle boards and daily standups
+- I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working
+- ADD DETAILS OF WORKING ON WEB/PR TEAM FOR KQ GAME
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (June - September 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -48,11 +43,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Birmingham City University (September 2004 - June 2007)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Sound and Mulitmedia Technology - 2:2
+- Sound Production, Electronics, Web based databases, Entertainment industry business and Signal processing
+- Created a Wii remote based looping app for final project
 
 #### Any other qualifications
 
