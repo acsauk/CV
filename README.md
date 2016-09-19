@@ -26,7 +26,7 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 Completing the Makers Academy curicculum remotely and having worked as part of Global teams for the past five years in office and remote settings I have seen first hand how important effective communications skills are when developing and maintaining professional relationships with colleagues and clients. Being able to convey technical or complicated topics in a non-patronising way ensures everyone has the same understanding as you and minimises he liklihood of confusion/misunderstandings.
 
-- Working on multiple Makers Academy project teams I collaborated effectively to ensure the project remained on focus by utilising Git, Waffle boards and daily standups
+- Working on multiple Makers Academy project teams and pair programming on a daily basis I collaborated effectively to ensure the projects remained on focus by utilising Git, Waffle boards and daily standups
 - I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working
 - ADD DETAILS OF WORKING ON WEB/PR TEAM FOR KQ GAME
 
