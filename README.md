@@ -1,6 +1,6 @@
 ## Alex Saunders
 
-Welcome to the CV of Alex Saunders. Maker of Things, Lover of All Things Cat Related, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a proud graduate of Makers Academy (M.A.) (link) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 12 weeks.
+Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a proud graduate of Makers Academy (M.A.) (link) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 12 weeks.
 
 I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at a professional services firm to web development earlier this year and I haven't looked back since. Being able to start each day energised with a new challenge and work out creative and efficient ways to solve it has confirmed my suspicion that career in web development is a perfect fit for me.
 
