@@ -52,8 +52,8 @@ Completing the Makers Academy curicculum remotely and having worked as part of G
 #### Birmingham City University (September 2004 - June 2007)
 
 - BSc Sound and Mulitmedia Technology - 2:2
-- Sound Production, Electronics, Web based databases, Entertainment industry business and Signal processing
-- Created a Wii remote based looping app for final project
+- Sound Production, Electronics, Web based Databases, Business Studies, Video Production and Signal Processing
+- Created a Wii remote based music looping app for final project
 
 #### Any other qualifications
 
