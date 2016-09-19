@@ -10,7 +10,7 @@ As a fledgling M.A. graduate I am looking for a role with a forward looking comp
 
 #### Test Driven Web Development
 
-I have gained a solid foundation in object orientated programming and leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
+I have gained a solid foundation in full stack object orientated programming and leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
 Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and at Command Line Interface level with a focus on maintainable DRY code.
 
