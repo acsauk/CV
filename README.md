@@ -1,16 +1,16 @@
 ## Alex Saunders
 
-Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a proud developer trained at Makers Academy (link) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 16 weeks.
+Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 16 weeks.
 
 Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development earlier this year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has confirmed my suspicion that career in web development is a perfect fit for me.
 
-I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things, solve fiendish problems and provide value where ever possible.
+I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things and provide value where ever possible.
 
 ## Skills
 
 #### Test Driven Web Development
 
-I have gained a solid foundation in full stack object orientated programming and leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
+I have gained a solid foundation in full stack object orientated programming and practice leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
 Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and at Command Line Interface level with a focus on maintainable DRY code.
 
