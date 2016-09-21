@@ -2,7 +2,7 @@
 
 Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 16 weeks.
 
-Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development earlier this year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has confirmed my suspicion that career in web development is a perfect fit for me.
+Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development earlier this year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has confirmed my suspicion that web development is a perfect fit for me.
 
 I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things and provide value where ever possible.
 
@@ -17,20 +17,22 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
-| Meal Planner (ADD LINK) |4| A Ruby-on-Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Ruby-on-Rails, Javascript, PostgreSQL, CSS (Milligram), Rspec, Capybara, HTML |
-| Dress 2 Impress (ADD LINK) | 5 | A Ruby-on-Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Ruby-on-Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip gem, Papercrop gem |
-| Thermostatatic (ADD LINK) | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
-| Inglorius BnBstards (ADD LINK) | 4 | Air BnB clone ADD DETAILS | ADD DETAILS |
+| Meal Planner [Github](https://github.com/joseck0510/meal_planner) - [Live App](https://meal-planner-ma.herokuapp.com/) |4| A Ruby-on-Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Ruby-on-Rails, Javascript, PostgreSQL, CSS (Milligram), Rspec, Capybara, HTML |
+| Dress 2 Impress [Github](https://github.com/jonnymoore12/dress_2_impress) | 5 | A Ruby-on-Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Ruby-on-Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip gem, Papercrop gem |
+| Thermostatatic [Github](https://github.com/acsauk/thermostat_js) | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
+| Inglorius BnBstards [Github](https://github.com/samjbro/inglourious-BnBsterds) | 4 | Air BnB clone ADD DETAILS | ADD DETAILS |
 
 #### Communication and Teamwork
 
-- Completing the Makers Academy curriculum remotely and having worked as part of a Global team at EY for the past five years in office and remote settings, I have seen firsthand how important effective communication skills are when developing and maintaining relationships with colleagues and clients. TIDY UP AND MAKE RELEVANT
-- Working on multiple Makers Academy project teams and pair programming on a daily basis I ensured the projects remained on focus by utilising Git, Waffle boards and daily standups
+- Working on multiple Makers Academy project teams and pair programming on a daily basis and having worked as part of a Global team at EY for the past five years in office and remote settings, I am used to building and maintaining relationships with colleagues and clients alike from a distance and face to face
+
 - I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working in an easy to understand format.
 
 #### Attention to detail
 
-- Working in immi and tax etc...
+- Feedback from other students on my Makers Academy cohort highlighted my attention to detail while pairing, in particular identifying syntax errors and providing alternative approaches to code structure
+
+- During my time at EY I was responsible for submitting visa applications and tax filing information on behalf of EY employees which also instilled in me the importance of ensuring extremely high attention to detail
 
 ## Education
 
@@ -38,9 +40,9 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript
 - Rspec, Jasmine, Mocha
 
 #### Open University (February 2011 - August 2012)
