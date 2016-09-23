@@ -17,14 +17,14 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
-| Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| A Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
-| Dress 2 Impress<br> [Github](https://github.com/jonnymoore12/dress_2_impress) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | A Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip & Papercrop gems, PostgreSQL |
-| Thermostatatic<br> [Github](https://github.com/acsauk/thermostat_js) | 2 | A vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
-| Inglorius BnBstards<br> [Github](https://github.com/samjbro/inglourious-BnBsterds) | 4 | an AirBnB clone inspired app created over 4 days | Ruby, Sinatra, Capybara, Rspec, CSS (Bootstrap), HTML |
+| Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
+| Dress 2 Impress<br> [Github](https://github.com/jonnymoore12/dress_2_impress) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip & Papercrop gems, PostgreSQL |
+| Thermostatatic<br> [Github](https://github.com/acsauk/thermostat_js) | 2 | Vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Sinatra, Jasmine, CSS, HTML |
+| Inglorius BnBstards<br> [Github](https://github.com/samjbro/inglourious-BnBsterds) | 4 | AirBnB inspired app created over 4 days | Ruby, Sinatra, DataMapper, Capybara, Rspec, CSS (Bootstrap), HTML |
 
 #### Fast learner
 
-- Starting Makers Academy I had minimal experience of object orientated programming and had never coded in Ruby or Javacript. 16 weeks later and I am now comfortable in both languages and have the skills and frameworks to pick up new technologies/languages quickly.
+- Starting Makers Academy I had minimal experience of object orientated programming and had never coded in Ruby or Javascript. 16 weeks later and I am now comfortable in both languages and have the skills and frameworks to pick up new technologies/languages quickly.
 
 #### Communication and Teamwork
 
