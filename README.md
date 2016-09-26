@@ -34,7 +34,7 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 #### Attention to detail
 
-- Feedback from other students on my Makers Academy cohort highlighted my attention to detail while pairing, in particular identifying syntax errors and providing alternative approaches to code structure
+- Feedback from other students on my Makers Academy cohort highlighted my attention to detail while pair programming, in particular identifying syntax errors and providing alternative approaches to code structure
 
 - During my time at EY I was responsible for submitting visa applications and tax filing information on behalf of EY employees which also instilled in me the importance of ensuring extremely high attention to detail
 
