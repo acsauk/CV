@@ -19,8 +19,8 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 |---------|--------|-------------|--------------|
 | Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
 | Dress 2 Impress<br> [Github](https://github.com/jonnymoore12/dress_2_impress) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip & Papercrop gems, PostgreSQL |
-| Thermostatatic<br> [Github](https://github.com/acsauk/thermostat_js) | 2 | Vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Sinatra, Jasmine, CSS, HTML |
-| Inglorius BnBstards<br> [Github](https://github.com/samjbro/inglourious-BnBsterds) | 4 | AirBnB inspired app created over 4 days | Ruby, Sinatra, DataMapper, Capybara, Rspec, CSS (Bootstrap), HTML |
+| Thermostatatic<br> [Github](https://github.com/acsauk/thermostat_js) | 2 | Vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
+| Inglorius BnBstards<br> [Github](https://github.com/samjbro/inglourious-BnBsterds) \ [App](https://inglourious-bnbsterds.herokuapp.com/) | 4 | AirBnB inspired app created over 4 days | Ruby, Sinatra, DataMapper, Capybara, Rspec, CSS (Bootstrap), HTML |
 
 #### Fast learner
 
@@ -28,7 +28,7 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 #### Communication and Teamwork
 
-- Working on multiple Makers Academy project teams and pair programming on a daily basis and having worked as part of a Global team at EY for the past five years in office and remote settings, I am experienced at building and maintaining relationships with colleagues and clients alike from a distance and face to face.
+- Working on multiple Makers Academy project teams, pair programming on a daily basis and having worked as part of a Global team at EY for the past five years in office and remote settings, I am experienced at building and maintaining relationships with colleagues and clients alike from a distance and face to face.
 
 - I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working in an easy to understand format.
 
@@ -54,7 +54,7 @@ Highly selective 12 week intensive coding bootcamp.
 #### Open University (February 2011 - August 2012)
 
 - BSc Computing (partially completed)
-- Data, computing and IT, Further Mathematics, Object orientated programming with Java
+- Data, Computing and IT, Further Mathematics, Object orientated programming with Java
 
 #### Birmingham City University (September 2004 - June 2007)
 
@@ -76,8 +76,11 @@ Company owner - Confectionary business
 **Phoenix Online Studios** (2004 - 2006)   
 Volunteer Web/PR coordinator and video game character voice over actor
 
+Full work experience available on [Linkedin]()
 
 ## Interests
 
-- Avid long distance runner currently training for third half-marathon
--
+- Long distance running
+- Gaming
+- Live music
+- As previously mentioned, Cats!
