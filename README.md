@@ -24,7 +24,7 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 #### Fast learner
 
-- Starting Makers Academy I had minimal experience of object orientated programming and had never coded in Ruby or Javascript. 16 weeks later and I am now comfortable in both languages and have the skills and frameworks to pick up new technologies/languages quickly.
+- Starting Makers Academy, I had minimal experience of object orientated programming and had never coded in Ruby or Javascript. 16 weeks later and I am now comfortable in both languages and have the skills and frameworks to pick up new technologies/languages quickly.
 
 #### Communication and Teamwork
 
@@ -42,7 +42,7 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 #### Makers Academy (June - September 2016)
 
-Highly selective 12 week intensive coding bootcamp.
+Highly selective 12-week intensive coding bootcamp.
 
 - Curiosity and a hungry passion for code
 - Independent learner and problem-solver
@@ -67,20 +67,14 @@ Highly selective 12 week intensive coding bootcamp.
 **EY** (2012 - 2016)    
 Assistant Director - Cross Border Travel Support
 
-**University of Birmingham** (2011 - 2012)   
-People and Organisational Development Coordinator
-
 **Vintage Delights** (2011 - 2013)    
 Company owner - Confectionary business
 
 **Phoenix Online Studios** (2004 - 2006)   
 Volunteer Web/PR coordinator and video game character voice over actor
 
-Full work experience available on [Linkedin]()
+Full work experience available on [Linkedin](https://uk.linkedin.com/in/alex-saunders-b027b115)
 
 ## Interests
 
-- Long distance running
-- Gaming
-- Live music
-- As previously mentioned, Cats!
+Aside from coding I love long distance running and try to get through at least two half marathons a year. I'm an avid gamer with a fierce loyalty towards all things Nintendo and I try to indulge my passion for live music whenever possible.
