@@ -44,7 +44,7 @@ Specifically I have experience of working in Ruby and Javascript developing apps
 
 Highly selective 12 week intensive coding bootcamp.
 
-- Curiosity and hungry passion for code
+- Curiosity and a hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
@@ -64,7 +64,7 @@ Highly selective 12 week intensive coding bootcamp.
 
 ## Experience
 
-**EY** (January 2012 - 2016)    
+**EY** (2012 - 2016)    
 Assistant Director - Cross Border Travel Support
 
 **University of Birmingham** (2011 - 2012)   
