@@ -1,6 +1,6 @@
 ## Alex Saunders
 
-Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a language agnostic web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) looking for an opportunity to put to use the cool/amazing skills I've learnt over the past 16 weeks.
+Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I guess you could say I'm a language agnostic web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) looking for an opportunity to put to use the cool/amazing skills I've learnt.
 
 Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development earlier this year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has confirmed my suspicion that web development is a perfect fit for me.
 
