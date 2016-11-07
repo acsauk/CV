@@ -12,11 +12,12 @@ I am looking for a role with a forward looking company that cares about the code
 
 I have gained a solid foundation in full stack object orientated programming and practice leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
-Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and at Command Line Interface level with a focus on maintainable DRY code.
+Specifically I have experience of working in Ruby and Javascript developing apps in Ruby-on-Rails and React.js and at Command Line Interface level with a focus on maintainable DRY code.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
+| Bank Transactions React.js App<br>[Github](https://github.com/acsauk/react_api) |4| React.js app developed over 4 days that consumes bank transaction data from an API | JavaScript, React.js, jQuery, MUIcss framework |
 | Meal Planner<br>[Github](https://github.com/joseck0510/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
 | Dress 2 Impress<br> [Github](https://github.com/jonnymoore12/dress_2_impress) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip & Papercrop gems, PostgreSQL |
 | Thermostatatic<br> [Github](https://github.com/acsauk/thermostat_js) | 2 | Vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
