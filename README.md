@@ -6,12 +6,6 @@ Having partially completed a Computing BSc degree and fostering a life-long obse
 
 I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things and provide value where ever possible.
 
-
-
-Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development last year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has proven that web development is a perfect fit for me.
-
-I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things and provide value wherever possible.
-
 ## Skills
 
 #### Test Driven Web Development
