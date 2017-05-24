@@ -67,8 +67,7 @@ Highly selective 16-week intensive coding bootcamp.
 
 ## Experience
 
-**Existent Ltd** (November 2016 - current)
-
+**Existent Ltd** (November 2016 - current)    
 Junior Full Stack Developer
 
 **EY** (2012 - 2016)    
