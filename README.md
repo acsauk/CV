@@ -18,7 +18,7 @@ Specifically I have experience of working in Ruby, PHP and Javascript developing
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
 | Bank Transactions React.js App<br>[Github](https://github.com/acsauk/react_api) |1| React.js app developed over 4 days that consumes bank transaction data from an API | JavaScript, React.js, jQuery, MUIcss framework |
-| Meal Planner<br>[Github](https://github.com/acsauk/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |4| Rails app developed over 8 days that allows users to sign up, create recipes and make a 7 day meal plan | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
+| Meal Planner<br>[Github](https://github.com/acsauk/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |Originally 4, now 1| Rails app originally developed as a Makers final group project but since gradually extended to start to target small food businesses that require a platform to store recipes, cost dishes and track inventory. | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
 | Dress 2 Impress<br> [Github](https://github.com/jonnymoore12/dress_2_impress) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip & Papercrop gems, PostgreSQL |
 | Thermostatatic<br> [Github](https://github.com/acsauk/thermostat_js) | 2 | Vanilla Javascript app to simulate the actions of a thermostat that consumes a weather API to display weather local to the user | Javascript, jQuery, Jasmine, CSS, HTML |
 
