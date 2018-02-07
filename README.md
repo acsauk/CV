@@ -1,10 +1,10 @@
 ## Alex Saunders
 
-Welcome to the CV of Alex Saunders. Maker of Things, Lover of Cat Videos, Solver of Problems, Enthusiast of Gadgets - the list goes on but to sum it up I'm a language agnostic web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) looking for an opportunity to put to use the cool/amazing skills I've learnt at Makers and during my current role as a Junior Full Stack Web Developer.
+I'm a language agnostic web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) currently solving client problems at Bluetel Solutions.
 
-Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development last year and I haven't looked back since. Being able to start each day with a new problem and formulating creative and efficient ways to solve it has proven that web development is a perfect fit for me.
+Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development a couple of years back and I haven't looked back since.
 
-I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, make really cool things and provide value where ever possible.
+I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, have an impact on a large scale and provide value wherever possible.
 
 ## Skills
 
@@ -12,7 +12,7 @@ I am looking for a role with a forward looking company that cares about the code
 
 I have gained a solid foundation in full stack object orientated programming and practice leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
-Specifically I have experience of working in Ruby, PHP and Javascript developing apps in Ruby-on-Rails, React.js and at Command Line Interface level with a focus on maintainable DRY code.
+Specifically I have experience of working in Ruby, Apex, PHP and Javascript developing apps in Ruby-on-Rails, React.js, Salesforce and at Command Line Interface level with a focus on maintainable DRY code.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
@@ -26,21 +26,22 @@ Specifically I have experience of working in Ruby, PHP and Javascript developing
 
 - Starting Makers Academy, I had minimal experience of object orientated programming and had never coded in Ruby or JavaScript. After an intense 16 weeks I found I was comfortable in both languages and had developed the skills and frameworks to pick up new technologies/languages quickly.
 
-- During my current role at Existent Ltd the main bulk of my time is spent maintaining and extending a legacy PHP codebase. This was a first for me in regards to both the language and legacy code but I had submitted my first pull request within two weeks to fix a bug regarding a postcode lookup that was preventing users from seeing available services in their area.
+- During my current role at Bluetel Solutions my time is split between multiple projects for a national energy company. The majority of my time is spent developing creative custom solutions to business challenges using the Salesforce platform coding in Apex and using SFDX for workflow. I have also spent some time working on a AWS Lambda codebase to implement a monitoring system for existing code. This was a first for me in regards to both the languages but I had submitted my first pull request within the first week to fix a UI bug that was preventing a team of 1000 from being able to carry out certain actions in the Salesforce environment.
+
 
 #### Communication and Teamwork
 
-- Being part of a team of 5 developers at Existent, working on multiple Makers Academy project teams and having worked as part of a Global team at EY in office and remote settings, I am experienced at building and maintaining relationships with colleagues and clients alike from a distance and face to face.
+- Being part of a team of 10 developers at Bluetel, working on multiple Makers Academy project teams and having worked as part of a Global team at EY in office and remote settings, I am experienced at building and maintaining relationships with colleagues and clients alike from a distance and face to face.
 
-- I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working in an easy to understand format.
+- I designed and delivered multiple webcasts to groups of senior Partners based around the world while working at EY in order to educate on the complex tax and immigration issues surrounding cross border working in an easy to understand format. 
+
 
 #### Attention to detail
 
-- Working with legacy code in my current role requires high levels of concentration and attention to detail in order to comprehend the app. This has instilled in me the need to take a step back when approaching a technical problem and ensure I understand the overall flow of the codebase rather than jumping straight in with preconceived assumptions.
+- Due to the nature of the workflow involved when working on Salesforce code I’ve further developed my attention to detail to ensure changes committed to Git are accurate and aren’t overwriting previous changes from other environments. 
 
-- Feedback from other students on my Makers Academy cohort highlighted my attention to detail while pair programming, in particular identifying syntax errors and providing alternative approaches to code structure.
+- Feedback from other students on my Makers Academy cohort highlighted my attention to detail while pair programming, in particular providing alternative approaches to code structure and identifying syntax errors. 
 
-- During my time at EY I was responsible for submitting visa applications and tax filing information on behalf of EY employees which also instilled in me the importance of ensuring extremely high attention to detail
 
 ## Education
 
@@ -67,7 +68,10 @@ Highly selective 16-week intensive coding bootcamp.
 
 ## Experience
 
-**Existent Ltd** (November 2016 - current)    
+**Bluetel Solutions** (September 2017 - Current)
+Software Engineer
+
+**Existent Ltd** (November 2016 - September 2017)
 Junior Full Stack Developer
 
 **EY** (2012 - 2016)    
