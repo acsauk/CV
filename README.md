@@ -43,6 +43,25 @@ Specifically I have experience of working in Ruby, Apex, PHP and Javascript deve
 - Feedback from other students on my Makers Academy cohort highlighted my attention to detail while pair programming, in particular providing alternative approaches to code structure and identifying syntax errors. 
 
 
+## Experience
+
+__Bluetel Solutions__ (September 2017 - Current)   
+Software Engineer
+
+__Existent Ltd__ (November 2016 - September 2017)   
+Junior Full Stack Developer
+
+__EY__ (2012 - 2016)   
+Assistant Director - Cross Border Travel Support
+
+__Vintage Delights__ (2011 - 2013)   
+Company owner - Confectionary business
+
+__Phoenix Online Studios__ (2004 - 2006)   
+Volunteer Web/PR coordinator and video game character voice over actor
+
+Full work experience available on [Linkedin](https://uk.linkedin.com/in/alex-saunders-b027b115)
+
 ## Education
 
 #### Makers Academy (June - September 2016)
@@ -65,25 +84,6 @@ Highly selective 16-week intensive coding bootcamp.
 - BSc Sound and Multimedia Technology - 2:2
 - Sound Production, Electronics, Web based Databases, Business Studies, Video Production and Signal Processing
 - Created a Wii remote based music looping app for final project
-
-## Experience
-
-**Bluetel Solutions** (September 2017 - Current)
-Software Engineer
-
-**Existent Ltd** (November 2016 - September 2017)
-Junior Full Stack Developer
-
-**EY** (2012 - 2016)    
-Assistant Director - Cross Border Travel Support
-
-**Vintage Delights** (2011 - 2013)    
-Company owner - Confectionary business
-
-**Phoenix Online Studios** (2004 - 2006)   
-Volunteer Web/PR coordinator and video game character voice over actor
-
-Full work experience available on [Linkedin](https://uk.linkedin.com/in/alex-saunders-b027b115)
 
 ## Interests
 
