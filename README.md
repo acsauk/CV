@@ -27,7 +27,7 @@ Specifically, I have experience of working in Ruby, PHP and JavaScript developin
 
 - Starting Makers Academy, I had minimal experience of object orientated programming and had never coded in Ruby or JavaScript. After an intense 16 weeks I found I was comfortable in both languages and had developed the skills and frameworks to pick up new technologies/languages quickly.
 
-- During my current role at Bluetel Solutions my time is split between multiple projects for a national energy company. The majority of my time is spent developing creative custom solutions to business challenges using the Salesforce platform coding in Apex and using SFDX for workflow. I have also spent some time working on a AWS Lambda codebase to implement a monitoring system for existing code. This was a first for me in regards to both the languages but I had submitted my first pull request within the first week to fix a UI bug that was preventing a team of 1000 from being able to carry out certain actions in the Salesforce environment.
+- My current role at Bluetel Solutions is split between multiple projects for a national energy company. The majority of my time is spent developing creative custom solutions to business challenges using the Salesforce platform coding in Apex and using Mavensmate and SFDX for workflow. I have also spent some time working on a AWS Lambda codebase to parse and sanitise email data from Salesforce ready to be used in AWS Machine Learning to make predictions on categories. This was a first for me in regards to both languages but I had submitted a pull request within the first week to fix a UI bug that was preventing a large team from being able to carry out business critical actions in the Salesforce environment.
 
 
 #### Communication and Teamwork
