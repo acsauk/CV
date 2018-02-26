@@ -2,7 +2,7 @@
 
 I'm a language agnostic web developer proudly trained at [Makers Academy](http://www.makersacademy.com/) currently solving client problems at Bluetel Solutions.
 
-Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development a couple of years back and I haven't looked back since.
+Having partially completed a Computing BSc degree and fostering a life-long obsession for all things tech, I made the decision to switch from a successful career in Global Mobility and Cross Border compliance at EY to web development and I haven't looked back since.
 
 I am looking for a role with a forward looking company that cares about the code they produce - somewhere where I can be stretched beyond my comfort zone, have an impact on a large scale and provide value wherever possible.
 
@@ -12,11 +12,12 @@ I am looking for a role with a forward looking company that cares about the code
 
 I have gained a solid foundation in full stack object orientated programming and practice leading industry standards such as Test Driven Development (TDD), working as part of an Agile team and following SOLID principals when writing code.
 
-Specifically I have experience of working in Ruby, Apex, PHP and Javascript developing apps in Ruby-on-Rails, React.js, Salesforce and at Command Line Interface level with a focus on maintainable DRY code.
+Specifically, I have experience of working in Ruby, PHP and JavaScript developing apps in Ruby-on-Rails, Node.js, AWS and at Command Line Interface level with a focus on maintainable DRY code.
 
 ##### Project Examples
 | Project | Size of team | Description | Technologies |
 |---------|--------|-------------|--------------|
+| Food Truck Hero Rails app<br>[Github] (https://github.com/acsauk/food_truck_hero) | 1 | A reimagining of meal_planner for use in the food industry as a tool to record recipes, cost ingredients and track inventory | Rails, Rspec, Capybara, CircleCI, Heroku |
 | Bank Transactions React.js App<br>[Github](https://github.com/acsauk/react_api) |1| React.js app developed over 4 days that consumes bank transaction data from an API | JavaScript, React.js, jQuery, MUIcss framework |
 | Meal Planner<br>[Github](https://github.com/acsauk/meal_planner) \ [App](https://meal-planner-ma.herokuapp.com/) |Originally 4, now 1| Rails app originally developed as a Makers final group project but since gradually extended to start to target small food businesses that require a platform to store recipes, cost dishes and track inventory. | Rails, Javascript, PostgreSQL, SCSS (Milligram), Rspec, Capybara, HTML |
 | Dress 2 Impress<br> [Github](https://github.com/jonnymoore12/dress_2_impress) \ [App](https://dress-2-impress-acsauk.herokuapp.com/dilemmas) | 5 | Rails app developed over 3.5 days that gives users the chance to have friends and family vote on their (sometimes dubious) fashion choices | Rails, Javascript, CSS (Bootstrap), Rspec, Capybara, HTML, Paperclip & Papercrop gems, PostgreSQL |
