@@ -43,7 +43,7 @@ Starting my current role at PM Connect required me to learn the Symfony framewor
 
 ## Experience
 
-__PM Connect__ (April 2018 - Current)
+__PM Connect__ (April 2018 - Current)   
 Platform Developer
 
 __Bluetel Solutions__ (September 2017 - April 2018)   
