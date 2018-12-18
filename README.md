@@ -20,6 +20,7 @@ PM Connect provide and create mobile experiences for global brands by facilitati
 
 __Bluetel Solutions__ (September 2017 - April 2018)   
 Software Engineer
+
 Bluetel are a digital agency providing cloud based CMS and customer service solutions to national and international clients.
 
 - Developed custom Apex Salesforce solutions for the customer service function of a national energy company
